@@ -1,0 +1,13 @@
+{
+    "name": "web_arindam/login",
+    "description": "Login Package",
+    "type": "dev",
+    "authors": [
+        {
+            "name": "web arindam",
+            "email": "arindam@webmaddy.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
